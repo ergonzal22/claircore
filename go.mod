@@ -1,6 +1,6 @@
 module github.com/quay/claircore
 
-go 1.20
+go 1.22.9
 
 require (
 	github.com/Masterminds/semver v1.5.0
@@ -13,7 +13,7 @@ require (
 	github.com/jackc/pgx/v4 v4.18.0
 	github.com/klauspost/compress v1.16.5
 	github.com/knqyf263/go-apk-version v0.0.0-20200609155635-041fdbb8563f
-	github.com/knqyf263/go-deb-version v0.0.0-20190517075300-09fca494f03d
+	github.com/knqyf263/go-deb-version v0.0.0-20241115132648-6f4aee6ccd23
 	github.com/knqyf263/go-rpm-version v0.0.0-20170716094938-74609b86c936
 	github.com/prometheus/client_golang v1.15.1
 	github.com/prometheus/client_model v0.4.0
