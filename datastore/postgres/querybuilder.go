@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/doug-martin/goqu/v8"
-	_ "github.com/doug-martin/goqu/v8/dialect/postgres"
+	"github.com/doug-martin/goqu/v9"
+	_ "github.com/doug-martin/goqu/v9/dialect/postgres"
 
 	"github.com/quay/claircore"
 	"github.com/quay/claircore/datastore"
