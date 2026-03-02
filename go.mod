@@ -1,12 +1,12 @@
 module github.com/quay/claircore
 
-go 1.20
+go 1.23
 
 require (
 	github.com/Masterminds/semver v1.5.0
 	github.com/doug-martin/goqu/v8 v8.6.0
 	github.com/golang/mock v1.6.0
-	github.com/google/go-cmp v0.5.9
+	github.com/google/go-cmp v0.7.0
 	github.com/google/uuid v1.3.0
 	github.com/jackc/pgconn v1.14.0
 	github.com/jackc/pgtype v1.14.0
@@ -55,7 +55,7 @@ require (
 	go.opentelemetry.io/otel v1.11.0 // indirect
 	golang.org/x/mod v0.10.0 // indirect
 	golang.org/x/sys v0.8.0 // indirect
-	google.golang.org/protobuf v1.30.0 // indirect
+	google.golang.org/protobuf v1.36.11 // indirect
 	lukechampine.com/uint128 v1.2.0 // indirect
 	modernc.org/cc/v3 v3.40.0 // indirect
 	modernc.org/ccgo/v3 v3.16.13 // indirect
