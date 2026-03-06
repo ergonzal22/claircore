@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 )
 
 // Example_logger is an example annotated for inclusion in the prose

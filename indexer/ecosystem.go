@@ -3,7 +3,7 @@ package indexer
 import (
 	"context"
 
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 )
 
 // Ecosystems group together scanners and a Coalescer which are commonly used

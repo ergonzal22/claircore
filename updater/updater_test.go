@@ -16,7 +16,7 @@ import (
 
 	"github.com/golang/mock/gomock"
 	"github.com/google/uuid"
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 
 	mock_updater "github.com/quay/claircore/test/mock/updater"
 	mock_driver "github.com/quay/claircore/test/mock/updater/driver/v1"

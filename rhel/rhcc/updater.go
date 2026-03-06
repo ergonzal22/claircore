@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"sort"
 
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 	"golang.org/x/text/cases"
 	"golang.org/x/text/language"
 

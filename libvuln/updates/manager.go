@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 	"golang.org/x/sync/semaphore"
 
 	"github.com/quay/claircore"

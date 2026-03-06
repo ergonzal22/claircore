@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 
 	"github.com/quay/claircore"
 	"github.com/quay/claircore/indexer"

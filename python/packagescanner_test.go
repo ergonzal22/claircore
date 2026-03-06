@@ -17,7 +17,7 @@ import (
 	"github.com/quay/claircore/test"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 )
 
 // TestScan runs the python scanner over some layers known to have python

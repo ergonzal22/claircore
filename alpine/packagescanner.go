@@ -7,7 +7,7 @@ import (
 	"io/fs"
 	"runtime/trace"
 
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 
 	"github.com/quay/claircore"
 	"github.com/quay/claircore/indexer"

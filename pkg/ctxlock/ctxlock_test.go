@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/google/uuid"
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 )
 
 func TestUncontested(t *testing.T) {

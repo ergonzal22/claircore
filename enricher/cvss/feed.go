@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 
 	"github.com/quay/claircore/libvuln/driver"
 )

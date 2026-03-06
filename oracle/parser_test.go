@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/quay/goval-parser/oval"
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 )
 
 func TestParse(t *testing.T) {

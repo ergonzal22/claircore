@@ -10,7 +10,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 	"golang.org/x/time/rate"
 )
 

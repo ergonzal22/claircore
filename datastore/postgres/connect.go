@@ -7,7 +7,7 @@ import (
 	"github.com/jackc/pgx/v4/pgxpool"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/quay/claircore/pkg/poolstats"
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 )
 
 // Connect initialize a postgres pgxpool.Pool based on the connection string

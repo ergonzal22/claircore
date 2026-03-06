@@ -9,7 +9,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 )
 
 type TestClientFunc func(req *http.Request) *http.Response

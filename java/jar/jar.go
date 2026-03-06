@@ -42,7 +42,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 )
 
 // Header is the magic bytes at the beginning of a jar.

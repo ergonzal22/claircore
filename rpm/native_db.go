@@ -8,7 +8,7 @@ import (
 	"runtime/trace"
 	"strings"
 
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 	"golang.org/x/crypto/openpgp/packet"
 
 	"github.com/quay/claircore"

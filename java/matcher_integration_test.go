@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 
 	"github.com/quay/claircore"
 	"github.com/quay/claircore/datastore/postgres"
@@ -84,7 +84,7 @@ func TestMatcherIntegration(t *testing.T) {
 	if err != nil {
 		t.Fatalf("expected error to be nil but got %v", err)
 	}
-	
+
 	vulns := vr.Vulnerabilities
 	t.Logf("Number of Vulnerabilities found: %d", len(vulns))
 

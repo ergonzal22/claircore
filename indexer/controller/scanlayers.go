@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 )
 
 // scanLayers will run all scanner types against all layers if deemed necessary

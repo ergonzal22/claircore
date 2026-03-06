@@ -7,7 +7,7 @@ import (
 	"encoding/binary"
 	"io"
 
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 )
 
 // CheckMagic looks at bit of the provided Reader to see if it looks like a

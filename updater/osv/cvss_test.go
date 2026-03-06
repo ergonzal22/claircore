@@ -6,7 +6,7 @@ import (
 
 	"github.com/quay/claircore"
 
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 )
 
 // Test harness adapted from https://github.com/goark/go-cvss/blob/634a87a6c9dd62c8d061d04133e022627cc0e1f8/v3/base/base_test.go

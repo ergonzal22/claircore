@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 
 	"github.com/quay/claircore/enricher/cvss"
 	"github.com/quay/claircore/libvuln/driver"

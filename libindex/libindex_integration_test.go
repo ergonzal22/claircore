@@ -16,7 +16,7 @@ import (
 	"github.com/jackc/pgx/v4"
 	"github.com/jackc/pgx/v4/log/testingadapter"
 	"github.com/jackc/pgx/v4/stdlib"
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 	"github.com/remind101/migrate"
 
 	"github.com/quay/claircore"

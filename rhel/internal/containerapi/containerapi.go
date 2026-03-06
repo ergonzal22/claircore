@@ -11,7 +11,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 )
 
 type containerImages struct {

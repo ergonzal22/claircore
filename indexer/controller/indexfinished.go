@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 )
 
 // indexFinished is the terminal stateFunc. once it transitions the

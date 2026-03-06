@@ -5,7 +5,7 @@ import (
 	"io"
 
 	"github.com/jackc/pgx/v4/pgxpool"
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 
 	"github.com/quay/claircore/datastore/postgres"
 	"github.com/quay/claircore/libvuln/driver"

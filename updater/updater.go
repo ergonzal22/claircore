@@ -16,7 +16,7 @@ import (
 	"sync"
 
 	"github.com/google/uuid"
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 	"golang.org/x/sync/errgroup"
 
 	driver "github.com/quay/claircore/updater/driver/v1"

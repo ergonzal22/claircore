@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 )
 
 func fetchLayers(ctx context.Context, s *Controller) (State, error) {

@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 	"github.com/rs/zerolog"
 
 	"github.com/quay/claircore"

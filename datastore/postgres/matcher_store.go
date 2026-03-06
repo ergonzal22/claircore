@@ -8,7 +8,7 @@ import (
 	"github.com/google/uuid"
 	"github.com/jackc/pgx/v4/pgxpool"
 	"github.com/jackc/pgx/v4/stdlib"
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 	"github.com/remind101/migrate"
 
 	"github.com/quay/claircore/datastore"

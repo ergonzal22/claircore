@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/golang/mock/gomock"
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 
 	indexer "github.com/quay/claircore/test/mock/indexer"
 )

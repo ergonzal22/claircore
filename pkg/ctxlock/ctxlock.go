@@ -18,7 +18,7 @@ import (
 
 	"github.com/jackc/pgconn"
 	"github.com/jackc/pgx/v4/pgxpool"
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 )
 
 // TODO(hank) Specify this algorithm to check its soundness.

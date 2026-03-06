@@ -10,7 +10,7 @@ import (
 	"net/url"
 
 	"github.com/quay/goval-parser/oval"
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 
 	"github.com/quay/claircore"
 	"github.com/quay/claircore/internal/xmlutil"

@@ -21,7 +21,7 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 	"github.com/rs/zerolog"
 	"golang.org/x/sync/errgroup"
 

@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/quay/zlog"
+	"github.com/quay/zlog/v2"
 )
 
 func TestParseHeader(t *testing.T) {
