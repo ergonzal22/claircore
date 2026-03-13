@@ -1,6 +1,6 @@
 module github.com/quay/claircore
 
-go 1.20
+go 1.25.0
 
 require (
 	github.com/Masterminds/semver v1.5.0
@@ -27,7 +27,7 @@ require (
 	golang.org/x/crypto v0.9.0
 	golang.org/x/sync v0.2.0
 	golang.org/x/text v0.9.0
-	golang.org/x/time v0.3.0
+	golang.org/x/time v0.15.0
 	golang.org/x/tools v0.9.1
 	modernc.org/sqlite v1.22.1
 )
