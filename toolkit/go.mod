@@ -1,5 +1,5 @@
 module github.com/quay/claircore/toolkit
 
-go 1.16
+go 1.21
 
-require github.com/google/go-cmp v0.5.9
+require github.com/google/go-cmp v0.7.0
