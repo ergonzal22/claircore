@@ -13,9 +13,9 @@ import (
 
 	"github.com/golang/mock/gomock"
 	"github.com/google/go-cmp/cmp"
-	"github.com/jackc/pgx/v4"
-	"github.com/jackc/pgx/v4/log/testingadapter"
-	"github.com/jackc/pgx/v4/stdlib"
+	"github.com/jackc/pgx/v5"
+	"github.com/jackc/pgx/v5/log/testingadapter"
+	"github.com/jackc/pgx/v5/stdlib"
 	"github.com/quay/zlog"
 	"github.com/remind101/migrate"
 
